@@ -1,5 +1,8 @@
 DISCLAIMER - I AM NOT RESPONSIBLE FOR YOUR ANY ILLEGAL ACTIVITES
 
+laravel shell upload 
+
+
 Telegram - @botmanarmy
 LARAVEL HATER V1
 C0ded by Harry_1337
